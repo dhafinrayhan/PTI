@@ -1,2 +1,0 @@
-# PTI
-PTI-B TPB ITB
